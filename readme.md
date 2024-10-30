@@ -50,7 +50,7 @@ The project aims to develop an image classification Machine Learning Model using
 
 #### Step Function Graph
 
-![Step Functions Graph](StepFunction.PNG)
+![Step Functions Graph](StepFunction.png)
 
 
 <br>
